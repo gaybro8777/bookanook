@@ -37,7 +37,7 @@ gem 'slim'
 
 gem 'remotipart', '~> 1.2'
 
-gem "administrate", '~> 0.1.4'
+gem "administrate", '~> 0.13.0'
 gem "bourbon"
 gem 'jquery-datatables-rails', '~> 3.3.0'
 
